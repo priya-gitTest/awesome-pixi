@@ -29,6 +29,8 @@ Where can you learn about Pixi?
   - [PyData Paris 2024](https://www.youtube.com/watch?v=O-up045PgXE) - Bridging the worlds: pixi reimplements pip and conda in Rust - Morcotilo
 - Conference Workshops:
   - [SciPy 2025](https://www.youtube.com/watch?v=8AYp3MlRSNA) - Reproducible Machine Learning Workflows for Scientists with pixi - Arts, Feickert, & Kirkham
+- Tutorials:
+  - [Python packaging with Pixi](https://priya-gittest.github.io/Python-Packaging-with-Pixi/)
 
 ### Example projects
 
